@@ -1,2 +1,4 @@
 # python-dictionary
-dictionary i made with python
+Dictionary i made with python!
+Type the word you want to search and it returns the definition of it. It allows case sensitivy or similar words.
+Try iy!
